@@ -1,4 +1,4 @@
-from anagram import Anagram
+from lib.anagram import Anagram
 
 class TestAnagram:
     '''Class Anagram in anagram.py'''
